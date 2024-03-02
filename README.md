@@ -1,9 +1,6 @@
 
 # FETCH A THON'24
 
-**Video Demo**
-
-You can watch a video demo of our project: [Google Drive Video Folder](https://drive.google.com/drive/folders/1zraptqNmK3KbnirxtJI_mVvn8KTn1hEG?usp=sharing)
 
 Project Information
 
